@@ -1,0 +1,71 @@
+Shiori, Magical Girl [ New Hero Idea ] -Support/Mage-
+
+Passive. (Pururi)
+Pururi is a magical creature that enable Shiori to use magic and transform into magical being.
+When transform, Shiori and Pururi will become one. While in normal form, Pururi will act
+as Shiori's supporter by providing shield and mana for Shiori. Every few seconds, Pururi's
+enery bar will be charged. If the bar is full, Pururi will provides 20% mana of total mana pool
+for every 20 seconds. Everytime Shiori received damage, the damage will be reduced by
+20% at cost of 20 pts of Pururi's energy (no damage reduced if energy depleted).
+
+Skill 1. (They are my Friends) -Normal-
+Shiori is able to heal her friends. When activated, the nearest ally hero will get marked.
+Hitting the skill button again will mark more allies (marks are limited to 3 heroes). After
+3 seconds, those marked allies will be healed by XXX pts. (Use the alternative button to
+cast the heal immediately).
+
+Skill 2. (Don't hurt them) -Normal-
+Shiori cast a magical wave in front of her, dealing small damage and slowing targets while
+healing allies. The wave will heals touched allies by 20% of total damages dealt to targets.
+
+Skill 3. (Magical Form)
+Shiori become one with Pururi and transform into Magical Being. When skill activated, nearby
+enemies will be damaged by XXXpts and stunned for 0.8s (extra damage dealt according to Pururi's
+current energy bar). While in Magical Form, Shiori will get new abilities that won't cost any mana
+and having her movement speed increased by 20. However, she won't regen any mana and her mana will 
+decreasing over seconds. After mana depleted, Human Form will automatically casted. 
+[Pururi's bar will stay on zero in this form]
+
+Skill 1. (Magical Hit) -Magical Form-
+When activated, the nearest enemy hero will get marked. Hitting the skill button again will mark 
+more enemies (marks are limited to 3 heroes). After 3 seconds, those marked enemies will be damaged 
+by XXX pts. (Use the alternative button to cast the effect immediately).
+
+Skill 2. (Magical Spiral) -Magical Form-
+Summon 2 magical blades that spin around Shiori for 3 seconds, enemies that hitted with the skill
+will be damaged by XXX pts. Within 3 seconds while the skill is still active, Shiori is able to
+target a small area and command the blades to fly to the targeted area, damaging and slowing enemies.
+
+Skill 3. (Human Form)
+Shiori separate herself with Pururi and become a human being, slowing nearby enemies by 60% and 
+immediately filling Pururi's energy bar by 50pts while increasing Shiori's mana regen by 100% for 2s. 
+[ Full Bar = 100pts ]
+
+-------------------------------------------------------------------------------------------------------
+
+Shiori, Magical Girl [ New Hero Idea ] -Marksmen/Mage-
+
+Passive. (Pururi)
+Pururi is a magical creature that enable Shiori to use magic and transform into magical being.
+When transform, Shiori and Pururi will become one. While in normal form, Pururi will act
+as Shiori's supporter by providing utilities for Shiori. Every few seconds, Pururi's
+enery bar will be charges. If the bar is full, Pururi will provides 10% attack speed for Shiori.
+Everytime Shiori received damage, the damage will be reduced by
+20% at cost of 20 pts of Pururi's energy (no damage reduced if energy depleted).
+
+Skill 1. (Magical Bullets) -Normal-
+When activated, the nearest enemy hero will get marked. Hitting the skill button again will mark 
+more enemies (marks are limited to 3 heroes). After 2 seconds, those marked enemies will be damaged 
+by XXX pts and slowed by 30%. Every targets will costs more mana but decreases this ability cooldown
+by 10% times total targets.
+
+Skill 2. (Go! Pururi) -Normal-
+Command Pururi to fly to the targeted area. Pururi will deal 50pts damages to enemies within the area
+(extra damage dealt according to Pururi's current energy bar). If Pururi had enough energy, Shiori
+will be able to teleport to Pururi's location at cost of 30pts energy. Pururi will return to Shiori
+after 3s.
+
+Skill 3. [ Same with Above ]
+
+
+Common Combo as Marksmen = Skill 1 + Skill 2 + Skill 3 + Skill 2.
