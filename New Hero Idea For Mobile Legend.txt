@@ -2,7 +2,7 @@ Shiori, Magical Girl [ New Hero Idea ] -Support/Mage-
 
 Passive. (Pururi)
 Pururi is a magical creature that enable Shiori to use magic and transform into magical being.
-When transform, Shiori and Pururi will become one. While in normal form, Pururi will act
+When transformed, Shiori and Pururi will combined to become one. While in normal form, Pururi will act
 as Shiori's supporter by providing shield and mana for Shiori. Every few seconds, Pururi's
 enery bar will be charged. If the bar is full, Pururi will provides 20% mana of total mana pool
 for every 20 seconds. Everytime Shiori received damage, the damage will be reduced by
@@ -10,21 +10,21 @@ for every 20 seconds. Everytime Shiori received damage, the damage will be reduc
 
 Skill 1. (They are my Friends) -Normal-
 Shiori is able to heal her friends. When activated, the nearest ally hero will get marked.
-Hitting the skill button again will mark more allies (marks are limited to 3 heroes). After
+Hitting the skill button again will mark more allies (the marks are only limited to 3 heroes). After
 3 seconds, those marked allies will be healed by XXX pts. (Use the alternative button to
 cast the heal immediately).
 
 Skill 2. (Don't hurt them) -Normal-
-Shiori cast a magical wave in front of her, dealing small damage and slowing targets while
+Shiori cast a magical wave within certain range in front of her, dealing small damage and slowing targets while
 healing allies. The wave will heals touched allies by 20% of total damages dealt to targets.
 
 Skill 3. (Magical Form)
-Shiori become one with Pururi and transform into Magical Being. When skill activated, nearby
-enemies will be damaged by XXXpts and stunned for 0.8s (extra damage dealt according to Pururi's
+Shiori become one with Pururi and transform into Magical Being. When the skill is activated, nearby
+enemies will be damaged by XXX pts and stunned for 0.8s (extra damage dealt according to Pururi's
 current energy bar). While in Magical Form, Shiori will get new abilities that won't cost any mana
 and having her movement speed increased by 20. However, she won't regen any mana and her mana will 
-decreasing over seconds. After mana depleted, Human Form will automatically casted. 
-[Pururi's bar will stay on zero in this form]
+decrease over seconds (essentially act as a timer). After mana depleted, Shiori will return to her Human form. 
+[note :Pururi's bar will also stay on zero in Magical Form]
 
 Skill 1. (Magical Hit) -Magical Form-
 When activated, the nearest enemy hero will get marked. Hitting the skill button again will mark 
@@ -60,7 +60,7 @@ by XXX pts and slowed by 30%. Every targets will costs more mana but decreases t
 by 10% times total targets.
 
 Skill 2. (Go! Pururi) -Normal-
-Command Pururi to fly to the targeted area. Pururi will deal 50pts damages to enemies within the area
+Command Pururi to fly over the targeted area. Pururi will deal 50pts damages to enemies within the area
 (extra damage dealt according to Pururi's current energy bar). If Pururi had enough energy, Shiori
 will be able to teleport to Pururi's location at cost of 30pts energy. Pururi will return to Shiori
 after 3s.
@@ -69,3 +69,6 @@ Skill 3. [ Same with Above ]
 
 
 Common Combo as Marksmen = Skill 1 + Skill 2 + Skill 3 + Skill 2.
+
+by : KiZaYa
+editted by : PcGoDz
